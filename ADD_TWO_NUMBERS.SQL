@@ -6,4 +6,3 @@ BEGIN
     sum := a + b;
     DBMS_OUTPUT.PUT_LINE('Sum of ' || a || ' and ' || b || ' = ' || sum);
 END;
-/
