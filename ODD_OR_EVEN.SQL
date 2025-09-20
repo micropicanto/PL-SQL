@@ -7,4 +7,3 @@ BEGIN
         DBMS_OUTPUT.PUT_LINE(num || ' is Odd');
     END IF;
 END;
-/
