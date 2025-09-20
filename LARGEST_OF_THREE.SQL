@@ -14,4 +14,3 @@ BEGIN
 
     DBMS_OUTPUT.PUT_LINE('Largest number is ' || largest);
 END;
-/
